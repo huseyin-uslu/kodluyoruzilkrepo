@@ -19,8 +19,5 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## License
-<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
-=======
-[MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> ce7b3ea6e6a947e491b1bd1b279718211b3853fb
+
